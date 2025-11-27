@@ -1,4 +1,6 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/MrNyamu/count.svg" alt="Visitor's Count" />
-</div>
+Hi there 👋🏾
+
+My name is Wesley, A Software engineer based in Kenya. I focus on building Bitcoin products and contributing to protocols!
+
+- I'm working on building [HelloCreator](https://minmo.to), A community-focused focused embeddable exchange for the on-ramp and off-ramp of Bitcoin and [HelloCreator(https://bitsacco.com], A platform allowing the sacco members to come together and save in Bitcoin
+- I've worked at [HelloCreator(https://fingo.africa)], A neo-bank offering banking services to Kenyan youth.
