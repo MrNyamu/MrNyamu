@@ -1,6 +1,6 @@
 Hi there 👋🏾
 
-My name is Nyamu, A Software engineer based in Kenya. I focus on building financial products and learning to contribute to Bitcoin ⚡!
+My name is Wesley Nyamu, A Software engineer based in Kenya. I focus on building financial products and learning to contribute to Bitcoin ⚡!
 
 - 🔭 I'm working on [Minmo](https://minmo.to), A community-focused focused embeddable exchange for the on-ramp and off-ramp of Bitcoin.
 - 🌱 I'm also contributing to [Bitsacco](https://bitsacco.com), A platform allowing the sacco members to come together and save in Bitcoin.
