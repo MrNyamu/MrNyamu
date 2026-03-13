@@ -8,4 +8,4 @@ My name is Wesley Nyamu, A Software engineer based in Kenya. I focus on building
 - 🛠️ I recently built a web-based dashboard for managing your personal [Phoenix](https://phoenix.acinq.co/server) server. This is a simple, self‑custodial Bitcoin Lightning server you run yourself for managing your Bitcoin liquidity. Check it out [here](https://github.com/MrNyamu/phoenixd-dashboard).
 - 🚧 I am currently building [Certivet](https://github.com/veluvo-softwares/Certivet), A Blockchain-Based System for Detecting Counterfeit Academic Certificates in Kenya, for my Bachelor's in Business Information Technology final year project.
 - 📬 I'm looking to collaborate on Bitcoin as well as financial products
-  - Reach me at wesleymbarire19@gmail.com
+  - Reach me at wesley@tulink.xyz
